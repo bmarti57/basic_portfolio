@@ -1,0 +1,18 @@
+body {
+	background-image: url(../images/cork-wallet.png);
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: black;
+  background: #ffffff;
+}
+
+footer {
+	padding: 20px;
+	margin-top: 20px;
+	color: white;
+	background: #666666;
+	text-align: center;
+}
