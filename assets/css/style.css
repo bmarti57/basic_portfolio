@@ -35,7 +35,7 @@ h2{
 }
 
 #full {
-	width: 960px;
+	width: 90%;
 	padding: 20px;
 	clear: both;
 	overflow: auto;
@@ -61,6 +61,7 @@ aside{
 	float: right;
 	padding: 20px;
 	align-content: right;
+	width: 270px;
 	}
 
 input[type=text] {
@@ -97,12 +98,8 @@ input[type=submit] {
 	clear: both;
 }
 
-.smallerimage{
-	height: 80px;
-	width: 160px;
-}
-
-.smallerimage2 {
-	height: 80px;
-	width: 80px;
+img {
+	padding: 10px;
+	height: 60px;
+	width: 60px;
 }
