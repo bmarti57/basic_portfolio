@@ -167,3 +167,14 @@ p {
 img.top {
     vertical-align: text-top;
 }
+
+.portfolioheader{
+	background: #4aaaa5;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: white;
+	float: left;
+	padding: 5px 10px 17px 10px;
+	height: 20px;
+	margin-left: 65px;
+	margin-top: 0px;
+}
